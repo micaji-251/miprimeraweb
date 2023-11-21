@@ -11,8 +11,8 @@
 ## FLUJO TRABAJO GIT
 
 1. git init
-2. add .
-3. git commit -m ""
-4. git push -u origin main
+2. git add . (de Working area a staging area)
+3. git commit -m "" (de staging area a repository)
+4. git push -u origin main (de repository a la nube)
 
 
